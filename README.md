@@ -14,3 +14,9 @@ Git Repo
     |- README.md
     |- main.py
 ```
+
+## TODO List
+
+* [ ] Plot format
+* [ ] Define data format with JSON
+* [ ] 
